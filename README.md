@@ -11,28 +11,12 @@ The Open Tibia Community has been around for decades representing an open-source
 
 On aggregate, the community is extremelly passionate about the game, with a strong sense of creativity and collaboration. Focused on the development of Scripts, Bots, Custom Mechanics and even entire Custom Versions of the game. 
 
-**Customization & Collaboration** is an essential part of the community, where a lot people new to programming try to get involved as well. Nowadays, customizations range from all versions since 7.0 up to recent 14. And includes many alternative versions of the game like:
-- Pokémon
-- Dragon Ball
-- Naruto
-- One Piece
-- Seasonal
-- IDLE
-- NFT
-- and more
+**Customization & Collaboration** is an essential part of the community, where a lot people new to programming try to get involved as well.
 
-And many new systems float around the community, like:
-- Custom Vocations, Spells, and Monsters
-- Lottery & Online Rewards
-- Weapon Rarity & Attributes
-- Rebirth
-- Crafting
-- Mining
-- Raids
-- Dungeon
-- Events & Mini-games
-- UIs
-- much more
+Nowadays, customizations range from all versions since 7.0 up to recent 14. And includes many alternative versions of the game like:
+Pokémon, Dragon Ball, Naruto, One Piece, Seasonal, IDLE, NFT, and more.
+
+And many new systems float around the community, like: Custom Vocations, Spells, and Monsters, Lottery & Online Rewards, Weapon Rarity & Attributes, Rebirth, Crafting, Mining, Raids, Dungeon, Events & Mini-games, UIs, and much more.
 
 ## Why "another" Project?
 It has everything to do with the **Nature of the OT Community** and the availability of **Modern Technologies**.
