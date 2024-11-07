@@ -11,3 +11,4 @@ opt-level = 3
 
 [dependencies]
 bevy = "0.14.2"
+tokio = { version = "1.41.0", features = ["full"] }
