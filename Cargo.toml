@@ -3,4 +3,11 @@ name = "tibia-rust-server-dev"
 version = "0.1.0"
 edition = "2021"
 
+[profile.dev]
+opt-level = 0
+
+[profile.dev.package."*"]
+opt-level = 3
+
 [dependencies]
+bevy = "0.14.2"
